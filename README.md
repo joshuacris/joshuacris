@@ -33,9 +33,3 @@ Currently: **ML Engineer Intern @ Shopify** (Search Relevance)
 | [ML Network Intrusion](https://github.com/joshuacris/ml-network-intrusion) | Benchmarked 4 ML models on 163K+ network flows for binary intrusion detection |
 | [Curator's Companion](https://github.com/joshuacris/CuratorsCompanion) | Android app for the Toronto Asian Art Museum managing 100+ records in real-time |
 | [MAMA Dashboard](https://github.com/joshuacris/sdg-challenge-2025-MAMA) | 🏆 Best Insights — Tableau dashboard for UN SDG maternal mortality data |
-
----
-
-## 📊 GitHub Stats
-
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuacris&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d)
