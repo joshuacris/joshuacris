@@ -28,8 +28,8 @@ Currently: **ML Engineer Intern @ Shopify** (Search Relevance)
 
 | Project | Description |
 |---|---|
+| [Realtime ML Network Intrusion](https://github.com/joshuacris/realtime-intrusion-detection) | Real-time intrusion detection: benchmarked 4 ML models on 163K+ flows (UNSW-NB15), then served XGBoost from C++ via ONNX over a Kafka pipeline: 4.2M pkts/s parse, 90K flows/s inference |
 | [Hemgjord](https://github.com/joshuacris/hemgjord) | Full-stack 3D room design app — async rendering pipeline handling ~500 req/s on GCP |
 | [PromptPilot](https://github.com/joshuacris/PromptPilot) | Chrome extension that optimizes LLM prompts using few-shot & chain-of-thought techniques |
-| [ML Network Intrusion](https://github.com/joshuacris/ml-network-intrusion) | Benchmarked 4 ML models on 163K+ network flows for binary intrusion detection |
 | [Curator's Companion](https://github.com/joshuacris/CuratorsCompanion) | Android app for the Toronto Asian Art Museum managing 100+ records in real-time |
 | [MAMA Dashboard](https://github.com/joshuacris/sdg-challenge-2025-MAMA) | 🏆 Best Insights — Tableau dashboard for UN SDG maternal mortality data |
