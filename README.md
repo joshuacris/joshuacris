@@ -1,8 +1,8 @@
 # Hi, I'm Joshua 👋
 
-I'm a Computer Science and Statistics (Machine Learning Stream) student at the University of Toronto graduating in 2027. I love to build ML/AI systems that scale. At RBC, I built a RAG pipeline set to serve 1000+ users and deployed a risk-classification ML pipeline processing millions of data daily.
+I'm a Computer Science and Statistics (Machine Learning Stream) student at the University of Toronto graduating in 2027. I love to build ML/AI systems that scale!
 
-Currently: **ML Engineer Intern @ Shopify** (Search Relevance)
+Currently: **Software Engineer Intern @ Shopify** (Search Foundation Models)
 
 🌐 [joshuacrisologo.com](https://joshuacrisologo.com) &nbsp;·&nbsp;
 💼 [LinkedIn](https://linkedin.com/in/joshua-crisologo) &nbsp;·&nbsp;
